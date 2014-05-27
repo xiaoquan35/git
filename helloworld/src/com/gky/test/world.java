@@ -1,5 +1,5 @@
 package com.gky.test;
 
-public class test {
+public class world {
 
 }
